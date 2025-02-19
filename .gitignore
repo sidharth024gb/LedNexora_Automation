@@ -1,0 +1,4 @@
+.venv
+.env
+vendors.xlsx
+chromedriver.exe
